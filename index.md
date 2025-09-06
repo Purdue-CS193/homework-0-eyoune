@@ -1,4 +1,4 @@
-# Elliott's First CS193 Homework
+# Elliott Youn's First CS193 Homework
 
 - Learning the basics of coding in a fun way.
 - Friendly class environment.
