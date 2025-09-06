@@ -1,5 +1,11 @@
 # Elliott's First CS193 Homework
 
+- Learning the basics of coding in a fun way.
+- Friendly class environment
+- Learning how to use GitHub and adding projects to it
+- Helpful TA's and classmates
+- Hands-on coding assignments
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
