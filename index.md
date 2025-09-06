@@ -1,10 +1,10 @@
 # Elliott's First CS193 Homework
 
 - Learning the basics of coding in a fun way.
-- Friendly class environment
-- Learning how to use GitHub and adding projects to it
-- Helpful TA's and classmates
-- Hands-on coding assignments
+- Friendly class environment.
+- Learning how to use GitHub and adding projects to it.
+- Helpful TA's and classmates.
+- Hands-on coding assignments.
 
 ## Welcome to GitHub Pages
 
